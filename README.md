@@ -20,11 +20,6 @@ Here are a few things I've picked up along my learning journey.
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kiran-venugopal&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-
- 
- 
-  ![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
  
 
 ## 🌐Socials
