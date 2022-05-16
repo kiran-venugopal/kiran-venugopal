@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Kiran 👨‍💻
 
-I am a Full Stack Software Developer (focused on Front End Engineering) and UI/UX enthusiast. I am passionate about technologies and love to learn new things.
+Full Stack Engineer (focused on Front End Engineering) and UI/UX enthusiast. I am passionate about technologies and love to learn new things.
 
 
 ## ⚡ Tech Stack
