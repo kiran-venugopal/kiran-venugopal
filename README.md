@@ -14,9 +14,8 @@ Here are a few things I've picked up along my learning journey.
  
  
  # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=kiran-venugopal&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kiran-venugopal&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-venugopal&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ## 🌐Socials
