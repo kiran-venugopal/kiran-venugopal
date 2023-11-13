@@ -1,7 +1,7 @@
 
 # Hi, I'm Kiran 👋
 
-Full Stack Engineer (focused on Front End Engineering) and UI/UX enthusiast. I am passionate about technologies and love to learn new things.
+A dedicated Frontend Engineer with a journey in the realm of code that commenced in 2020. Presently contributing my expertise at @BrowserStack. Passionate about the artistry of frontend development, I transform concepts into seamless user experiences
 
 
 ## ⚡ Tech Stack
