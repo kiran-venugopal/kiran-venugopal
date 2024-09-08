@@ -1,7 +1,7 @@
 
 # Hi, I'm Kiran 👋
 
-A dedicated Frontend Engineer with a journey in the realm of code that commenced in 2020. Presently contributing my expertise at BrowserStack. Passionate about the artistry of frontend development, I transform concepts into seamless user experiences
+Frontend Engineer with a journey in the realm of web apps that commenced in 2020. Presently contributing my expertise at BrowserStack. Passionate about the artistry of frontend development, I transform concepts into seamless user experiences
 
 
 ## 🌐Socials
